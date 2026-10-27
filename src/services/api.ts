@@ -73,6 +73,15 @@ import { Character, Anime,CharacterStatistics } from "../types/character";
             age: 19,
             gender: "Female",
         },
+        {
+            id: 7,
+            name: "Sakura Haruno",
+            image: "🌸",
+            description: "Sakura is a skilled medical ninja and a member of Team 7.",
+            anime: "Naruto",
+            age: 17,
+            gender: "Female",
+        }
     ];
 
     // 2.2 CREATE ANIME DATA
